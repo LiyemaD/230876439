@@ -40,7 +40,6 @@ This repository contains a multi-page web application architecture demonstrating
 ---
 
 ## Technical Stack & Competencies
-* **Core Systems Development:** Java, C++, Python
 * **Frontend Web Engineering:** JavaScript (JS Engine), HTML5 Structuring, CSS3 Formatting
 * **Backend Server Technologies:** PHP Runtime, JavaServer Pages (JSP Engine Framework)
 
