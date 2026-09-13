@@ -59,5 +59,5 @@ This repository contains a multi-page web application architecture demonstrating
 ### Production Server Cloud Setup (GitHub Pages)
 The static frontend application engine layout is hosted and running directly on GitHub production clouds (`Task Two`).
 * **Live Static Deployment Link:** [Click here to view my project live!][(https://liyemad.github.io/230876439/)]
-* *Note: PHP and JSP runtime execution profiles are intentionally simulated and evaluated strictly via local XAMPP host interfaces, as standard static file delivery clouds do not hold local backend server compiler hooks.*
-*
+* **Note:** PHP and JSP runtime execution profiles are intentionally simulated and evaluated strictly via local XAMPP host interfaces, as standard static file delivery clouds do not hold local backend server compiler hooks.
+
